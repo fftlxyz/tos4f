@@ -1,0 +1,3 @@
+写了loader，用来加载kernel.
+在test3中，512byte 不太够用了.
+效果和test3是一样的.
